@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazentayseer" alt="mazentayseer" /></a> </p>
 
-- 🔭 I’m currently working on [A Multi function Discord Bot](https://top.gg/bot/991196140626247702)
+- 🔭 I’m currently working on [A Multi-functional Discord Bot](https://top.gg/bot/991196140626247702)
 
 - 🌱 I’m currently learning **Fullstack Web Development and Python.**
 
@@ -25,6 +25,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazentayseer&show_icons=true&locale=en&layout=compact" alt="mazentayseer" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mazentayseer&show_icons=true&locale=en" alt="mazentayseer" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mazentayseer&" alt="mazentayseer" /></p>
 
