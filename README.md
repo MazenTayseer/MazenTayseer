@@ -1,6 +1,11 @@
 <h1 align="center">👋 Hi, I'm Mazen Tayseer</h1>
 <h3 align="center">A Computer Engineering Undergraduate from Egypt.</h3>
+<hr>
+<h4>Creator of [Burger](https://top.gg/bot/991196140626247702)</h4>
+<img width="219" alt="image" src="https://user-images.githubusercontent.com/101992888/186183532-626ff293-d577-4026-8b65-23216358dbec.png">
 
+
+<hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazentayseer" alt="mazentayseer" /></a> </p>
 
 - 🔭 I’m currently working on [A Multi-functional Discord Bot](https://top.gg/bot/991196140626247702)
