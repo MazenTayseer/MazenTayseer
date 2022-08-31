@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Mazen Tayseer</h1>
 <h3 align="center">A Computer Engineering Undergraduate from Egypt, Creator of Burger Bot on Discord.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazentayseer" alt="mazentayseer" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazentayseer" alt="mazentayseer" /></a> </p>
 
 - 🍔 Invite Burger from Here https://top.gg/bot/991196140626247702 !
 
