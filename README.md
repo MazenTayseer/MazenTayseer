@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazentayseer" alt="mazentayseer" /></a> </p>
 
-- 🍔 Invite Burger from Here https://top.gg/bot/991196140626247702 ! <a href="https://top.gg/bot/991196140626247702">
+- 🍔 Invite Burger from Here https://top.gg/bot/991196140626247702 <a href="https://top.gg/bot/991196140626247702">
   <img src="https://top.gg/api/widget/servers/991196140626247702.svg">
 </a> 
 
