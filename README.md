@@ -5,6 +5,8 @@
 
 - 🍔 Invite Burger from Here https://top.gg/bot/991196140626247702 !
 
+[![Discord Bots](https://top.gg/api/widget/991196140626247702.svg)(https://top.gg/bot/991196140626247702)
+
 - 🔭 I’m currently working on an **E-commerce Website.**
 
 - 🌱 I’m currently learning **Fullstack Web Development and Python.**
