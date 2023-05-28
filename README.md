@@ -1,7 +1,9 @@
 <h1 align="center">👋 Hi, I'm Mazen Tayseer</h1>
 <h3 align="center">A Computer Engineering Undergraduate from Egypt</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazentayseer" alt="mazentayseer" /></a> </p>
+<!-- https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Commits,Repositories,Stars,Followers,Issues -->
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazentayseer&title=Commits,Repositories,Stars,Followers,Issues" alt="mazentayseer" /></a> </p>
 
 - 🔭 A Software Engineer to be.
 
