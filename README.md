@@ -3,7 +3,7 @@
 
 <!-- https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Commits,Repositories,Stars,Followers,Issues -->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazentayseer&title=Commits,Repositories,Stars,Followers,Issues,PR" alt="mazentayseer" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazentayseer&title=Commits,Repositories,Stars,Followers,Issues,PR" alt="mazentayseer" /></a> </p> -->
 
 - 🔭 A Software Engineer to be.
 
