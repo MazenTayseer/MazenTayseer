@@ -17,7 +17,7 @@
 <!-- <a href="https://stackoverflow.com/users/19422412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19422412" height="30" width="40" /></a>
 <a href="https://instagram.com/mazen_tayseer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mazen_tayseer" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mazentayseer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mazentayseer" height="30" width="40" /></a> -->
-<a href="https://codeforces.com/profile/mazentayseer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mazentayseer" height="30" width="40" /></a>
+<!-- <a href="https://codeforces.com/profile/mazentayseer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mazentayseer" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
